@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>917196819660-muqn2mquud202h2dpv41hk1hp9ppqpsg.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.917196819660-muqn2mquud202h2dpv41hk1hp9ppqpsg</string>
+	<key>API_KEY</key>
+	<string>THE API KEY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>917196819660</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.wastetastic</string>
+	<key>PROJECT_ID</key>
+	<string>wastetastic</string>
+	<key>STORAGE_BUCKET</key>
+	<string>wastetastic.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:917196819660:ios:f3a51f14fc97f944b20669</string>
+</dict>
+</plist>

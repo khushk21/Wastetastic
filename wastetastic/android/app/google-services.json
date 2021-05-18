@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "917196819660",
+    "project_id": "wastetastic",
+    "storage_bucket": "wastetastic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917196819660:android:ad8f814449a52ca1b20669",
+        "android_client_info": {
+          "package_name": "com.se3.wastetastic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917196819660-j0b2necgsdqm3hfcakp3a1vna014r8v1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0mbBnxC1skbMn8mvXLLeCcgekpZDEr14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917196819660-j0b2necgsdqm3hfcakp3a1vna014r8v1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
